@@ -1,0 +1,48 @@
+[33mcommit 157165ef74c062f10804adc5337a9ff54a259232[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Wed Jul 2 18:03:16 2025 +0300
+
+    Objects tracking, multi tracking and I started training AI
+
+[33mcommit 6d673595eac9939539171a90b321ba7976ace6e9[m
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Wed Jul 2 17:51:31 2025 +0300
+
+    Objects tracking, multi tracking and I started training AI
+
+[33mcommit e6d8a5c39a4392b14159255da9aa166768a03bc5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 17:44:41 2025 +0300
+
+    kedi yuzu tanima projesi eklendi, ozelliklere gore nesne algilama yuz tanima ve yaya algilama projeleri eklendi
+
+[33mcommit e85a20e062d75030b7a2ea373fa315dacef3db69[m
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 17:34:44 2025 +0300
+
+    kedi yuzu tanima projesi eklendi, ozelliklere gore nesne algilama yuz tanima ve yaya algilama projeleri eklendi
+
+[33mcommit b6122817f6b793071d4772305a0d5e74223e6af2[m
+Merge: eed64c1 19f0fdc
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 12:42:07 2025 +0300
+
+    Merge branch 'main' of https://github.com/muhammeddonegel/image-processing-exercises
+
+[33mcommit eed64c1376347e6e1817f05f07582fe7dd946354[m
+Author: Muhammed Donegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 12:37:47 2025 +0300
+
+    first upload -course projects
+
+[33mcommit 19f0fdca95249a1219226028c78897eeab15c541[m
+Author: Muhammed Dönegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 12:29:13 2025 +0300
+
+    Update README.md
+
+[33mcommit 7060199b95ee9d0cf8cc5f71e7cb2bb2471faeca[m
+Author: Muhammed Dönegel <muhammedd2129@gmail.com>
+Date:   Mon Jun 30 12:11:09 2025 +0300
+
+    Initial commit
