@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.model_selection import train_test_split
 import seaborn as sns
 
-imgs = glob.glob("./img/*.png")
+imgs = glob.glob("./img2/*.png")
 
 width = 125
 height = 50
@@ -66,14 +66,14 @@ score_test = model.evaluate(test_X, test_Y)
 print("Test dogrulugu: %", score_test[1]*100)
 
 # Modeli JSON formatında kaydet
-with open("model.json", "w") as json_file:
-    json_file.write(model.to_json())
+#with open("model1.json", "w") as json_file:
+    #json_file.write(model.to_json())
 
 # Ağırlıkları HDF5 dosyası olarak kaydet
-model.save_weights("weights.h5")
+#model.save_weights("weights.h5")
 
-# open("model_new.json", "w").write(model.to_json())
-# model.save_weights("trex_weight_new.h5")
+open("model4.json", "w").write(model.to_json())
+model.save_weights("trex4.weights.h5")
 
 
 
